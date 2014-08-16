@@ -1,6 +1,6 @@
 use strict;
 package Template::Plugin::YAMLVal;
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 use base 'Template::Plugin';
 
