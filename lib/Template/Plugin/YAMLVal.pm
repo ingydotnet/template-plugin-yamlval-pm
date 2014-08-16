@@ -1,6 +1,6 @@
-use strict;
+use strict; use warnings;
 package Template::Plugin::YAMLVal;
-our $VERSION = '0.14';
+our $VERSION = '0.15';
 
 use base 'Template::Plugin';
 
